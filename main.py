@@ -1,6 +1,4 @@
 import pandas as pd
-import smtplib
-import email.message
 
 
 # importar base de dados
